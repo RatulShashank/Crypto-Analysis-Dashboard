@@ -97,24 +97,15 @@ python main.py
 
 ---
 
-##  Dashboard Preview (Add Your Screenshots Here)
+##  Dashboard Preview
 
 ![alt text](<Screenshot 2026-04-28 112027.png>)
 ![alt text](<Screenshot 2026-04-28 112119.png>)
 
 ## Robust Analysis Option
-![alt text](<Screenshot 2026-04-28 121406.png>)
+images/Screenshot 2026-04-28 121406.png
 
 
-
----
-
-##  Future Roadmap
-
-- 🔗 TradingView integration  
-- 📡 WebSocket live data  
-- 🤖 ML-based predictions  
-- 📊 Real-time dashboard UI  
 
 ---
 
