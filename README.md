@@ -99,11 +99,15 @@ python main.py
 
 ##  Dashboard Preview
 
-![alt text](<Screenshot 2026-04-28 112027.png>)
-![alt text](<Screenshot 2026-04-28 112119.png>)
+<img width="2560" height="1343" alt="image" src="https://github.com/user-attachments/assets/a98ab25c-5857-49bc-a6bb-881cf1cff907" />
+
+<img width="2560" height="1355" alt="image" src="https://github.com/user-attachments/assets/e5760ea3-9f11-411c-89cc-f7a58ca9454e" />
+
 
 ## Robust Analysis Option
 images/Screenshot 2026-04-28 121406.png
+<img width="2560" height="1344" alt="image" src="https://github.com/user-attachments/assets/d1701557-4c8c-4ae4-8364-10c03ea7db8f" />
+
 
 
 
